@@ -4,7 +4,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 header{
-    background-image: url(/images/фоннн.jpg);
+    background-image: url(../images/фоннн.jpg);
   
 }
 
@@ -12,12 +12,12 @@ header{
     padding-bottom: 50px;
 }
 .section-2 {
-    background-image: url(/images/фоннн.jpg);
+    background-image: url(../images/фоннн.jpg);
     padding-bottom: 15px;
  
 }
 .section-3-1 {
-    background-image: url(/images/фоннн.jpg);
+    background-image: url(../images/фоннн.jpg);
 }
 .photo {
     width: 50%;
