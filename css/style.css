@@ -29,7 +29,9 @@ header{
     display: block;
     padding: 20px;    
 }
-
+ .d1 {
+    z-index: 1;
+ }
 
 
 
@@ -278,6 +280,8 @@ h3 {
     
 }
 
+
+
 .diploma {
     max-width: 500px;
     margin-left: auto;
@@ -285,14 +289,15 @@ h3 {
     margin-top: 30px;
    
 }
-.d1:hover {
+
+/* .d1:hover {
     transform: scale(3); 
     transition: 3s;
 }
 .d2:hover {
     transform: scale(3); 
     transition: 3s;
-}
+} */
 
 @media (max-width:1399px) {
     .container-md{
