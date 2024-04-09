@@ -148,10 +148,10 @@ h1 {
     padding-bottom: 15px;
 
 }
-.col-md-6:hover {
+/* .col-md-6:hover {
     transform: scale(3); 
     transition: 3s;
-}
+} */
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 800;
