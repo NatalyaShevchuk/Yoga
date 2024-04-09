@@ -24,14 +24,11 @@ header{
     display: block;
 }
 .ex img  {
-    width: 150px;
+    width: 30%;
     float: right;
     display: block;
     padding: 20px;    
 }
- .d1 {
-    z-index: 1;
- }
 
 
 
@@ -149,6 +146,11 @@ h1 {
 }
 .col-md-6 {
     padding-bottom: 15px;
+
+}
+.col-md-6:hover {
+    transform: scale(3); 
+    transition: 3s;
 }
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
